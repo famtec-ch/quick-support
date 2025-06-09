@@ -4,7 +4,7 @@ Willkommen im **Quick Support**-Repository von FamTec!
 Hier findest du eine Sammlung von **FAQs und Anleitungen** für häufig gestellte Fragen und alltägliche Aufgaben.  
 
 Falls du mit den Anleitungen nicht weiterkommst, kannst du dich jederzeit an unseren Support wenden:  
-📧 **support@famtec.ch**
+**[Supportfall / Ticket](https://famtec.ch/ticket)** – Eröffne einen Supportfall bei uns.
 
 ---
 
